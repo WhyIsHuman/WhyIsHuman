@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi，我是你们的好朋友，失智的米卷，欢迎来到我的主页👋
+### Hi，我是你们的好朋友，是个人，欢迎来到我的主页👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhyIsHuman&show_icons=true&theme=radical)
 
